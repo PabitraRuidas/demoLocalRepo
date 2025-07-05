@@ -1,0 +1,6 @@
+.text{
+    width: max-content;
+    background: linear-gradient(to right,red,green,blue);
+    background-clip: text;
+    color: transparent;
+}
